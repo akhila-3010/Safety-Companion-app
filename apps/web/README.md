@@ -17,7 +17,6 @@ You can view the current app prototype here:
 
 🔗 https://ea7dd5f4-8602-4741-abdb-712c811a2608.app-preview.com/
 
-*(Note: This is a preview build and may have limited functionality.)*
 
 ---
 
